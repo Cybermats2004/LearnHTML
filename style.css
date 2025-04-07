@@ -4,3 +4,7 @@ blockquote {
     padding: 1rem;
     max-width: max-content;
 }
+
+abbr {
+    text-decoration: underline dotted cyan;
+}
